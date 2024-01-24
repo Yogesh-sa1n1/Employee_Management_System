@@ -1,3 +1,4 @@
+Project languages are Java,Swing,MySQL 
 A workforce information system, also known as a employee management system or 
 workforce intelligence system, is a software solution designed to gather, organize, and 
 analyse data related to an organization’s workforce. It focuses on capturing and managing 
