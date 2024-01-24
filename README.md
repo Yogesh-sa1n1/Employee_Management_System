@@ -1,0 +1,11 @@
+
+![one](https://github.com/Yogesh-sa1n1/Employee_Management_System/assets/84224353/97348af7-cdbf-4bcf-b81f-1c7136d473a5)
+![Login](https://github.com/Yogesh-sa1n1/Employee_Management_System/assets/84224353/7b37fbda-80fb-4b0c-aadf-41390cdb8347)
+![Home](https://github.com/Yogesh-sa1n1/Employee_Management_System/assets/84224353/7d43e33e-df5b-4b88-afe7-6dbd8a5165b5)
+![detail](https://github.com/Yogesh-sa1n1/Employee_Management_System/assets/84224353/b2ab4442-1652-4145-ab3d-974d39a51982)
+![update](https://github.com/Yogesh-sa1n1/Employee_Management_System/assets/84224353/8548958e-9235-4bba-83c2-ccd390d90284)
+![attandence](https://github.com/Yogesh-sa1n1/Employee_Management_System/assets/84224353/c66002a2-c697-47c5-9c69-203c157ee368)
+![leave](https://github.com/Yogesh-sa1n1/Employee_Management_System/assets/84224353/48d9ecef-210a-44f2-9de3-3974d6edd503)
+![leave](https://github.com/Yogesh-sa1n1/Employee_Management_System/assets/84224353/13f33424-a91e-4483-8a47-0712748604eb)
+![db1](https://github.com/Yogesh-sa1n1/Employee_Management_System/assets/84224353/e7e0b05a-0993-4544-929b-bdf4ae62ff84)
+![db2](https://github.com/Yogesh-sa1n1/Employee_Management_System/assets/84224353/3618ed35-1ac0-418d-9805-ce1eea25de46)
