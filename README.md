@@ -1,4 +1,12 @@
-
+A workforce information system, also known as a employee management system or 
+workforce intelligence system, is a software solution designed to gather, organize, and 
+analyse data related to an organization’s workforce. It focuses on capturing and managing 
+information about employees, including their skills, qualifications, performance, and 
+development.
+The purpose of a workforce system to provide organizations with a comprehensive and 
+efficient platform for managing all aspects of the employee lifecycle. This system serves 
+as a centralized hub for storing and organizing employee data, streamlining HR processes, 
+and ensuring consistent and accurate management of employees.
 ![one](https://github.com/Yogesh-sa1n1/Employee_Management_System/assets/84224353/97348af7-cdbf-4bcf-b81f-1c7136d473a5)
 ![Login](https://github.com/Yogesh-sa1n1/Employee_Management_System/assets/84224353/7b37fbda-80fb-4b0c-aadf-41390cdb8347)
 ![Home](https://github.com/Yogesh-sa1n1/Employee_Management_System/assets/84224353/7d43e33e-df5b-4b88-afe7-6dbd8a5165b5)
